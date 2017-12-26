@@ -1,0 +1,1 @@
+[26-Nov-2017 02:00:41 Etc/GMT] PHP Fatal error:  Call to undefined function plugin_basename() in /home/senzix15/public_html/SMARTERJUSTICE/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

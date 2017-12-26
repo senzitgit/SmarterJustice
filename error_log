@@ -1,0 +1,42 @@
+[11-Jan-2016 09:30:54 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/smartergovernment.co.uk/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[11-Jan-2016 09:31:34 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/smartergovernment.co.uk/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[11-Jan-2016 09:41:17 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/smartergovernment.co.uk/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[11-Jan-2016 10:26:32 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/smartergovernment.co.uk/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[11-Jan-2016 10:27:05 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/smartergovernment.co.uk/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[12-Jan-2016 05:51:17 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/smarterjustice.com/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[12-Jan-2016 05:53:24 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/esenzitc/public_html/smarterjustice.com/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[19-Jul-2016 13:09:27 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[09-Sep-2016 15:55:54 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[08-Oct-2016 05:01:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[15-Oct-2016 18:42:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[01-Nov-2016 13:01:42 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[03-Nov-2016 09:19:03 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzixwd/public_html/SMARTERJUSTICE/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[28-Dec-2016 06:15:35 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[02-Jan-2017 08:05:25 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[12-Apr-2017 14:26:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[12-May-2017 05:39:29 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[12-May-2017 05:39:29 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[17-May-2017 14:48:39 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[30-May-2017 13:59:15 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[03-Jun-2017 06:31:22 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[16-Jun-2017 15:42:14 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[20-Jun-2017 20:26:21 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[21-Jun-2017 10:29:05 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[06-Jul-2017 20:30:32 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[15-Jul-2017 19:55:51 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzixwd/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 503
+[30-Jul-2017 12:58:51 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[21-Aug-2017 14:08:04 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzix15/public_html/SMARTERJUSTICE/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[25-Aug-2017 07:51:04 UTC] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/senzix15/public_html/SMARTERJUSTICE/wp-content/plugins/contact-form-7/includes/controller.php on line 97
+[27-Aug-2017 00:38:35 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[01-Sep-2017 19:01:13 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[21-Sep-2017 14:55:27 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[22-Sep-2017 11:13:12 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[01-Oct-2017 22:36:17 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[07-Oct-2017 13:14:40 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[10-Oct-2017 10:22:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[22-Oct-2017 20:44:52 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[31-Oct-2017 22:56:52 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[18-Nov-2017 00:25:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[22-Nov-2017 19:42:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[01-Dec-2017 19:14:01 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508
+[26-Dec-2017 11:33:10 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/senzix15/public_html/SMARTERJUSTICE/wp-includes/class-wp-xmlrpc-server.php on line 508

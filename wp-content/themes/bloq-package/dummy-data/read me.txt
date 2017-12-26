@@ -1,0 +1,6 @@
+After you import, you have to:1. Navigate Settings > Reading. Set “Front page displays” here.   Check "A static page":   - Front page: Home   - Posts page: Blog2. Navigate Appearance > Menus. Set "Theme Locations".The import does not preserve the portfolio post format setting, so you have to assign each portfolio post the format you want.The import does not keep the footer widget. You have to reassign the widget you prefer.
+
+
+
+Cheers,
+Themelovin.
